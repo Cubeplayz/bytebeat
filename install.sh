@@ -12,8 +12,8 @@ clear
 echo -e "${CYAN}"
 echo "╔═══════════════════════════════════════╗"
 echo "║      VPS Deploy Bot Installer 🚀      ║"
-echo "║         Script by FlaxxyPlayz         ║"
-echo "╚═══════════════════════════════════════╝"
+echo "║         Script by CubePlayz         ║"
+echo      Script by CubePlayz         ║"════╝"
 echo -e "${NC}"
 sleep 2
 
